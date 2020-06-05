@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../movieApp/movie-app2/client"
+	},
+	{
+		"path": "../../../movieApp/movie-app2/models"
+	},
+	{
+		"path": "../../../movieApp/movie-app2/node_modules"
+	},
+	{
+		"path": "../../../movieApp/movie-app2/routes"
+	}
+],
+  "settings": {}
+}
